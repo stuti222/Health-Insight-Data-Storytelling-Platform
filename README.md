@@ -1,5 +1,3 @@
-# Health-Insight-Data-Storytelling-Platform
-
 # Health Insight & Data Storytelling Platform
 
 **Health Insight & Data Storytelling Platform** empowers users and practitioners to turn personal health data into stories that inspire action. It’s a tool for visualising, interpreting, and communicating patterns across nutrition, lifestyle, mental wellbeing, and biometric trends using dashboards, narrative reports, and data-driven recommendations.
